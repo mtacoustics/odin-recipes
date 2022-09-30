@@ -8,7 +8,7 @@ This is project that I am attempting to create a website with links and pictures
 Skills I'll demonstrate:
     1. Basic HTML boilerplate. I will be writing this from memory and not using a template
     2. Structuring of Page
-    3. Use of <strong> and <em> to emphasize importance
+    3. Use of strong and em to emphasize importance
     4. Links
     5. Images
     6. Using git and becoming more familar with git/github
@@ -22,3 +22,6 @@ Mistakes:
 Self Reflections:
 
 
+Ending:
+
+Hopfully will be able to revisit this project after I start learning CSS and JS.
