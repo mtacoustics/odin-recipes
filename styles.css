@@ -1,0 +1,36 @@
+#main-title {
+    font-size: 60px;
+    text-align: center;
+    color: #ec9c28;
+    background-color: #537a97;
+    border-style: solid;
+    border-radius: 15px;
+    position: relative;
+    -webkit-text-fill-color: #ec9c28;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #050d2d;
+}
+
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#recipes {
+    font-size: 36px;
+    text-align: center;
+}
+
+#header {
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #f2c989;
+    color: #050d2d;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
+
